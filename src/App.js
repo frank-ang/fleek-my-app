@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>and Filecoin!</p>
       </header>
     </div>
   );
