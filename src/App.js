@@ -18,6 +18,8 @@ function App() {
           Learn React
         </a>
         <p>and Filecoin!</p>
+        <p>plus, Filecoin Plus!</p>
+
       </header>
     </div>
   );
